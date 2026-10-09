@@ -86,4 +86,4 @@ npm run dev
 
 ### 프로젝트 동작 이미지
 
-![project](https://github.com/NAMUORI00/jsquiz-app/blob/main/project.gif)
+![project](project.gif)
